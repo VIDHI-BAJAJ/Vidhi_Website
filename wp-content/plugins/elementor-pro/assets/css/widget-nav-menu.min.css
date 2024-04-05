@@ -35,7 +35,7 @@
  .elementor-menu-toggle__icon--close{display:none}.elementor-menu-toggle .e-font-icon-svg{fill:#33373d;height:1em;width:1em}.elementor-menu-toggle svg{width:1em;height:auto;fill:var(--nav-menu-icon-color,currentColor)}span.elementor-menu-toggle__icon--close,span.elementor-menu-toggle__icon--open{line-height:1}
 .elementor-nav-menu--dropdown{background-color:#fff;font-size:13px}.elementor-nav-menu--dropdown-none .elementor-menu-toggle,.elementor-nav-menu--dropdown-none .elementor-nav-menu--dropdown{display:none}.elementor-nav-menu--dropdown.elementor-nav-menu__container{margin-top:10px;transition:max-height .3s,transform .3s;transform-origin:top;overflow-y:auto;overflow-x:hidden}.elementor-nav-menu--dropdown.elementor-nav-menu__container
  .elementor-sub-item{font-size:.85em}.elementor-nav-menu--dropdown a{color:#33373d}
- ..elementor-nav-menu--dropdown1 a{color:#000}
+ .elementor-nav-menu--dropdown a{color:#c9c2c2}
  .elementor-926 .elementor-element.elementor-element-4abdbb18 .elementor-nav-menu--dropdown a:hover, .elementor-926 .elementor-element.elementor-element-4abdbb18 .elementor-nav-menu--dropdown a.elementor-item-active, .elementor-926 .elementor-element.elementor-element-4abdbb18 .elementor-nav-menu--dropdown a.highlighted {
     background-color: #000;}.sub-menu elementor-nav-menu--dropdown a{color:#fff;}
  .elementor-926 .elementor-element.elementor-element-4abdbb18 .elementor-nav-menu--dropdown a.elementor-item-active {color: #fff;background-color: #000000;} .elementor-nav-menu--dropdown a.elementor-item-active:hover{background-color: #000;}
